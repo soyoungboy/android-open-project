@@ -177,7 +177,6 @@ APP示例：手机QQV5.0
 
 1. DelectPullToRefreesh-master
 模仿QQ界面，listview既可以上拉刷新，下拉加载，还可以进行手势滑动listview进行删除
-
 项目地址：https://github.com/soyoungboy/DelectPullToRefreesh-master
 效果展示：![Renderings](https://raw.githubusercontent.com/soyoungboy/DelectPullToRefreesh-master/master/res/%E4%B8%8A%E6%8B%89%E5%88%B7%E6%96%B0%EF%BC%8C%E4%B8%8B%E6%8B%89%E5%8A%A0%E8%BD%BD%EF%BC%8C%E6%BB%91%E5%8A%A8item%E5%8F%AF%E4%BB%A5%E5%88%A0%E9%99%A4%E5%AF%B9%E5%BA%94item.gif) 
 
